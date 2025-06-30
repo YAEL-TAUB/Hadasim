@@ -2,7 +2,7 @@ const fs = require('fs');
 const readline = require('readline');
 const path = require('path');
 
-// --- Configuration Constants ---
+//  --- Configuration Constants ---
 // Ensure this path is absolutely correct!
 const LOG_FILE_PATH = "logs.txt"; // Change this to your actual log file path
 // Ensure the log file exists before running the script 
